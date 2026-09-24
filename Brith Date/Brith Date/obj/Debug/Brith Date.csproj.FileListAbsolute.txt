@@ -1,0 +1,10 @@
+C:\Users\HP\Downloads\Brith Date\Brith Date\bin\Debug\Brith Date.exe.config
+C:\Users\HP\Downloads\Brith Date\Brith Date\bin\Debug\Brith Date.exe
+C:\Users\HP\Downloads\Brith Date\Brith Date\bin\Debug\Brith Date.pdb
+C:\Users\HP\Downloads\Brith Date\Brith Date\obj\Debug\Brith Date.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\Brith Date\Brith Date\obj\Debug\Brith_Date.BrithDate.resources
+C:\Users\HP\Downloads\Brith Date\Brith Date\obj\Debug\Brith_Date.Properties.Resources.resources
+C:\Users\HP\Downloads\Brith Date\Brith Date\obj\Debug\Brith Date.csproj.GenerateResource.cache
+C:\Users\HP\Downloads\Brith Date\Brith Date\obj\Debug\Brith Date.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\Brith Date\Brith Date\obj\Debug\Brith Date.exe
+C:\Users\HP\Downloads\Brith Date\Brith Date\obj\Debug\Brith Date.pdb
