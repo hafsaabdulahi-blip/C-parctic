@@ -1,0 +1,10 @@
+C:\Users\Eng Naima\Documents\Adobe\Student-Info\Student-Info\bin\Debug\Student-Info.exe.config
+C:\Users\Eng Naima\Documents\Adobe\Student-Info\Student-Info\bin\Debug\Student-Info.exe
+C:\Users\Eng Naima\Documents\Adobe\Student-Info\Student-Info\bin\Debug\Student-Info.pdb
+C:\Users\Eng Naima\Documents\Adobe\Student-Info\Student-Info\obj\Debug\Student-Info.csproj.AssemblyReference.cache
+C:\Users\Eng Naima\Documents\Adobe\Student-Info\Student-Info\obj\Debug\Student_Info.Form1.resources
+C:\Users\Eng Naima\Documents\Adobe\Student-Info\Student-Info\obj\Debug\Student_Info.Properties.Resources.resources
+C:\Users\Eng Naima\Documents\Adobe\Student-Info\Student-Info\obj\Debug\Student-Info.csproj.GenerateResource.cache
+C:\Users\Eng Naima\Documents\Adobe\Student-Info\Student-Info\obj\Debug\Student-Info.csproj.CoreCompileInputs.cache
+C:\Users\Eng Naima\Documents\Adobe\Student-Info\Student-Info\obj\Debug\Student-Info.exe
+C:\Users\Eng Naima\Documents\Adobe\Student-Info\Student-Info\obj\Debug\Student-Info.pdb
