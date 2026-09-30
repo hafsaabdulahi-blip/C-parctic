@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aisha\\OneDrive\\Desktop\\Electricity Bill Calculate\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B456EC2-7920-4C86-9634-055D42F12B1B}|Electricity Bill Calculate\\Electricity Bill Calculate.csproj|c:\\users\\aisha\\onedrive\\desktop\\electricity bill calculate\\electricity bill calculate\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B456EC2-7920-4C86-9634-055D42F12B1B}|Electricity Bill Calculate\\Electricity Bill Calculate.csproj|solutionrelative:electricity bill calculate\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B456EC2-7920-4C86-9634-055D42F12B1B}|Electricity Bill Calculate\\Electricity Bill Calculate.csproj|c:\\users\\aisha\\onedrive\\desktop\\electricity bill calculate\\electricity bill calculate\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8B456EC2-7920-4C86-9634-055D42F12B1B}|Electricity Bill Calculate\\Electricity Bill Calculate.csproj|solutionrelative:electricity bill calculate\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Aisha\\OneDrive\\Desktop\\Electricity Bill Calculate\\Electricity Bill Calculate\\Form1.cs",
+              "RelativeDocumentMoniker": "Electricity Bill Calculate\\Form1.cs",
+              "ToolTip": "C:\\Users\\Aisha\\OneDrive\\Desktop\\Electricity Bill Calculate\\Electricity Bill Calculate\\Form1.cs",
+              "RelativeToolTip": "Electricity Bill Calculate\\Form1.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAywDgAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T18:22:03.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Aisha\\OneDrive\\Desktop\\Electricity Bill Calculate\\Electricity Bill Calculate\\Form1.cs",
+              "RelativeDocumentMoniker": "Electricity Bill Calculate\\Form1.cs",
+              "ToolTip": "C:\\Users\\Aisha\\OneDrive\\Desktop\\Electricity Bill Calculate\\Electricity Bill Calculate\\Form1.cs [Design]",
+              "RelativeToolTip": "Electricity Bill Calculate\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T18:21:57.148Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

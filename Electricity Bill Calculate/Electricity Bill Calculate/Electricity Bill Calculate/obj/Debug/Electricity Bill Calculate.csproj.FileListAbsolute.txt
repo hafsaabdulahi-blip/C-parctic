@@ -1,0 +1,11 @@
+C:\Users\Aisha\OneDrive\Desktop\Electricity Bill Calculate\Electricity Bill Calculate\bin\Debug\Electricity Bill Calculate.exe.config
+C:\Users\Aisha\OneDrive\Desktop\Electricity Bill Calculate\Electricity Bill Calculate\bin\Debug\Electricity Bill Calculate.exe
+C:\Users\Aisha\OneDrive\Desktop\Electricity Bill Calculate\Electricity Bill Calculate\bin\Debug\Electricity Bill Calculate.pdb
+C:\Users\Aisha\OneDrive\Desktop\Electricity Bill Calculate\Electricity Bill Calculate\obj\Debug\Electricity Bill Calculate.csproj.AssemblyReference.cache
+C:\Users\Aisha\OneDrive\Desktop\Electricity Bill Calculate\Electricity Bill Calculate\obj\Debug\Electricity_Bill_Calculate.Form1.resources
+C:\Users\Aisha\OneDrive\Desktop\Electricity Bill Calculate\Electricity Bill Calculate\obj\Debug\Electricity_Bill_Calculate.Properties.Resources.resources
+C:\Users\Aisha\OneDrive\Desktop\Electricity Bill Calculate\Electricity Bill Calculate\obj\Debug\Electricity Bill Calculate.csproj.GenerateResource.cache
+C:\Users\Aisha\OneDrive\Desktop\Electricity Bill Calculate\Electricity Bill Calculate\obj\Debug\Electricity Bill Calculate.csproj.CoreCompileInputs.cache
+C:\Users\Aisha\OneDrive\Desktop\Electricity Bill Calculate\Electricity Bill Calculate\obj\Debug\Electricity Bill Calculate.exe
+C:\Users\Aisha\OneDrive\Desktop\Electricity Bill Calculate\Electricity Bill Calculate\obj\Debug\Electricity Bill Calculate.pdb
+C:\Users\Aisha\OneDrive\Desktop\Electricity Bill Calculate\Electricity Bill Calculate\obj\Debug\Electricity Bill Calculate.exe.config
