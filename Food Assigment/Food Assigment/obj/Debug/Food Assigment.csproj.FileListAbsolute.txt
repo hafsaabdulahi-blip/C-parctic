@@ -1,0 +1,10 @@
+C:\Users\HP\Desktop\Food Assigment\Food Assigment\bin\Debug\Food Assigment.exe.config
+C:\Users\HP\Desktop\Food Assigment\Food Assigment\bin\Debug\Food Assigment.exe
+C:\Users\HP\Desktop\Food Assigment\Food Assigment\bin\Debug\Food Assigment.pdb
+C:\Users\HP\Desktop\Food Assigment\Food Assigment\obj\Debug\Food Assigment.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Food Assigment\Food Assigment\obj\Debug\Food_Assigment.Form1.resources
+C:\Users\HP\Desktop\Food Assigment\Food Assigment\obj\Debug\Food_Assigment.Properties.Resources.resources
+C:\Users\HP\Desktop\Food Assigment\Food Assigment\obj\Debug\Food Assigment.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Food Assigment\Food Assigment\obj\Debug\Food Assigment.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Food Assigment\Food Assigment\obj\Debug\Food Assigment.exe
+C:\Users\HP\Desktop\Food Assigment\Food Assigment\obj\Debug\Food Assigment.pdb
