@@ -1,0 +1,11 @@
+C:\Users\HP\Desktop\labassigment\labassigment\bin\Debug\labassigment.exe.config
+C:\Users\HP\Desktop\labassigment\labassigment\bin\Debug\labassigment.exe
+C:\Users\HP\Desktop\labassigment\labassigment\bin\Debug\labassigment.pdb
+C:\Users\HP\Desktop\labassigment\labassigment\obj\Debug\labassigment.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\labassigment\labassigment\obj\Debug\labassigment.Form1.resources
+C:\Users\HP\Desktop\labassigment\labassigment\obj\Debug\labassigment.Properties.Resources.resources
+C:\Users\HP\Desktop\labassigment\labassigment\obj\Debug\labassigment.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\labassigment\labassigment\obj\Debug\labassigment.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\labassigment\labassigment\obj\Debug\labassigment.exe
+C:\Users\HP\Desktop\labassigment\labassigment\obj\Debug\labassigment.pdb
+C:\Users\HP\Desktop\labassigment\labassigment\obj\Debug\labassigment.exe.config

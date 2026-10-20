@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\labassigment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB9B5E8-8E37-4E2F-A9CD-08DE1944EA5B}|labassigment\\labassigment.csproj|c:\\users\\hp\\desktop\\labassigment\\labassigment\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7DB9B5E8-8E37-4E2F-A9CD-08DE1944EA5B}|labassigment\\labassigment.csproj|solutionrelative:labassigment\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB9B5E8-8E37-4E2F-A9CD-08DE1944EA5B}|labassigment\\labassigment.csproj|C:\\Users\\HP\\Desktop\\labassigment\\labassigment\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DB9B5E8-8E37-4E2F-A9CD-08DE1944EA5B}|labassigment\\labassigment.csproj|solutionrelative:labassigment\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\labassigment\\labassigment\\Form1.cs",
+              "RelativeDocumentMoniker": "labassigment\\Form1.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\labassigment\\labassigment\\Form1.cs",
+              "RelativeToolTip": "labassigment\\Form1.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAUwCwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-18T12:55:00.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\labassigment\\labassigment\\Form1.cs",
+              "RelativeDocumentMoniker": "labassigment\\Form1.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\labassigment\\labassigment\\Form1.cs [Design]",
+              "RelativeToolTip": "labassigment\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-18T12:52:55.331Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
