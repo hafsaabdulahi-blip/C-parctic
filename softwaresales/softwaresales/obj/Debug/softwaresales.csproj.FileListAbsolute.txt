@@ -1,0 +1,11 @@
+C:\Users\HP\Desktop\softwaresales\softwaresales\bin\Debug\softwaresales.exe.config
+C:\Users\HP\Desktop\softwaresales\softwaresales\bin\Debug\softwaresales.exe
+C:\Users\HP\Desktop\softwaresales\softwaresales\bin\Debug\softwaresales.pdb
+C:\Users\HP\Desktop\softwaresales\softwaresales\obj\Debug\softwaresales.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\softwaresales\softwaresales\obj\Debug\softwaresales.Form1.resources
+C:\Users\HP\Desktop\softwaresales\softwaresales\obj\Debug\softwaresales.Properties.Resources.resources
+C:\Users\HP\Desktop\softwaresales\softwaresales\obj\Debug\softwaresales.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\softwaresales\softwaresales\obj\Debug\softwaresales.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\softwaresales\softwaresales\obj\Debug\softwaresales.exe
+C:\Users\HP\Desktop\softwaresales\softwaresales\obj\Debug\softwaresales.pdb
+C:\Users\HP\Desktop\softwaresales\softwaresales\obj\Debug\softwaresales.exe.config
