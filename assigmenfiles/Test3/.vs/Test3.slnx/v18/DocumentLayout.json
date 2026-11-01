@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell\\source\\repos\\Test3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ACC52E9C-7B86-459C-9EDE-A8AA96A048C3}|Test3\\Test3.csproj|c:\\users\\dell\\source\\repos\\test3\\test3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACC52E9C-7B86-459C-9EDE-A8AA96A048C3}|Test3\\Test3.csproj|solutionrelative:test3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACC52E9C-7B86-459C-9EDE-A8AA96A048C3}|Test3\\Test3.csproj|C:\\Users\\Dell\\source\\repos\\Test3\\test3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ACC52E9C-7B86-459C-9EDE-A8AA96A048C3}|Test3\\Test3.csproj|solutionrelative:test3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 883,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Test3\\Test3\\Form1.cs",
+              "RelativeDocumentMoniker": "Test3\\Form1.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Test3\\Test3\\Form1.cs",
+              "RelativeToolTip": "Test3\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-31T18:09:54.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Test3\\Test3\\Form1.cs",
+              "RelativeDocumentMoniker": "Test3\\Form1.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Test3\\Test3\\Form1.cs [Design]",
+              "RelativeToolTip": "Test3\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-31T17:47:26.526Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

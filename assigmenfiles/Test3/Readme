@@ -1,0 +1,84 @@
+C# Windows Forms – File Handling System
+
+1. Project Overview
+
+This project is a C# Windows Forms application developed using Visual Studio. It demonstrates basic file handling operations, including adding items to a ListBox, deleting items, deleting files, writing text to files, and reading files from the computer.
+
+2. Technologies Used
+
+- C#
+- .NET Windows Forms
+- Visual Studio
+- System.IO
+- StreamReader
+- OpenFileDialog
+- SaveFileDialog
+
+3. Features
+
+Add Item
+
+Allows users to enter text and add it to the ListBox.
+
+Delete Item
+
+Removes the selected item from the ListBox.
+
+Delete File
+
+Allows users to select a file from their computer and delete it after confirmation.
+
+Write All Text
+
+Saves all items displayed in the ListBox into a text file selected by the user.
+
+Stream Reader
+
+Allows users to select and read a text file. Each line of the file is displayed as an item in the ListBox.
+
+4. How to Run the Project
+
+1. Open Visual Studio.
+2. Open the C# Windows Forms project.
+3. Make sure all required controls are available on Form1.
+4. Build the project to check for errors.
+5. Run the application.
+6. Use the buttons to perform file handling operations.
+
+5. How to Use the Application
+
+1. Enter text in the TextBox and click Add Item.
+2. Select an item in the ListBox and click Delete Item.
+3. Click Write All Text to save the ListBox contents to a file.
+4. Click Stream Reader to select and read a file.
+5. Click Delete File to select a file and delete it after confirmation.
+
+6. File Storage
+
+The application allows users to select files from the Desktop or other accessible folders on their computer.
+
+The Save File dialog allows users to choose the file name and location for saving text.
+
+7. Important Notes
+
+- The application must have permission to access the selected file.
+- Deleting a file may permanently remove it.
+- Write All Text replaces the existing contents of the selected destination file.
+- Stream Reader is intended for reading text-based files.
+- Always verify the selected file before deleting or overwriting it.
+
+8. Learning Objectives
+
+This project helps students understand:
+
+- Windows Forms event handling.
+- Working with TextBox and ListBox controls.
+- Reading files using StreamReader.
+- Writing files using File.WriteAllText.
+- Deleting files using File.Delete.
+- Selecting files using OpenFileDialog.
+- Saving files using SaveFileDialog.
+
+9. Conclusion
+
+The File Handling System demonstrates how a C# Windows Forms application can manage text and files using built-in .NET classes. It provides practical experience with user interface controls, file operations, and event-driven programming.
